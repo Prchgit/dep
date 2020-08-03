@@ -1,2 +1,2 @@
 public def func():     
-   return("hello")
+   return("ola")
