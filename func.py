@@ -1,2 +1,2 @@
-public def func():     
+def func():     
    return("ola")
